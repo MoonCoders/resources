@@ -8,5 +8,5 @@ We're 3 friends who love to work on open source projects 💙.
 * Kristiyan Petrov ([**@kristiyanP**](https://github.com/kristiyanP))
 * Alex Gotev ([**@gotev**](https://github.com/gotev))
 
-Get in touch with us saying hi 👋🏻 at [hello@mooncoders.co](mailto:hello@mooncoders.co)
+Get in touch with us saying hi 👋🏻 at [hello@mooncoders.co](mailto:hello@mooncoders.co). We're also on [Medium](https://medium.com/mooncoders) 🖊
 
