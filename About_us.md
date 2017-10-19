@@ -1,4 +1,4 @@
-# About us
+## About us
 
 <img src="/moon_medium_logo.png" width=30% />
 
